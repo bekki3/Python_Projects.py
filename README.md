@@ -1,2 +1,2 @@
 # Python_Projects.py
-Here I will be uploading my Python Projects
+Here you can find my Python Projects
